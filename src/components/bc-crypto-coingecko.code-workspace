@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../bc-crypto-coingecko"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../bc-stock-finnhub"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

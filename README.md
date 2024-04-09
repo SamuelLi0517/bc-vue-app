@@ -1,1 +1,2 @@
-# bc-vue-app
+# demo-vue-app
+demo-vue-app
